@@ -2,7 +2,8 @@ Family Tree Support: Building, Preserving, and Understanding Your Family History
 =================================================================================
 
 Family tree support refers to the resources, guidance, and tools that help individuals research, organize, preserve, and share their family history. Whether you are beginning your genealogy journey or expanding an existing family tree, having reliable support makes the process easier and more accurate. From collecting historical records to collaborating with relatives, family tree support enables families to preserve their heritage for future generations.
- .. image:: login-noww.png
+
+.. image:: login-noww.png
    :alt: My Project Logo
    :width: 400px
    :align: center
